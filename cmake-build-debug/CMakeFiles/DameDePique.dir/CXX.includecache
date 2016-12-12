@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Developpement/C++/DameDePique/Joueur.cpp
+Joueur.h
+D:/Developpement/C++/DameDePique/Joueur.h
+
+D:/Developpement/C++/DameDePique/Joueur.h
+iostream
+-
+
+D:/Developpement/C++/DameDePique/Tour.cpp
+algorithm
+-
+Tour.h
+D:/Developpement/C++/DameDePique/Tour.h
+
+D:/Developpement/C++/DameDePique/Tour.h
+iostream
+-
+Joueur.h
+D:/Developpement/C++/DameDePique/Joueur.h
+
+D:/Developpement/C++/DameDePique/main.cpp
+iostream
+-
+algorithm
+-
+Joueur.h
+D:/Developpement/C++/DameDePique/Joueur.h
+Tour.h
+D:/Developpement/C++/DameDePique/Tour.h
+
